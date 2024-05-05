@@ -1,5 +1,0 @@
-public with shring getccount{
-  public static List<Account> getData(){
-  return [select id,name from Account limit50];
-}
-  }
